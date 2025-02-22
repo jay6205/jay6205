@@ -41,7 +41,7 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 - **LeetCode:** [leetcode.com/u/jay6205](https://leetcode.com/u/jay6205/)
 - **CodeForces:** [codeforces.com/Jay620599]((https://codeforces.com/profile/Jay620599))
 
-###⚡ Fun Fact: I have a knack for solving LeetCode problems at the most random times—yes, even at 2 AM!
+⚡ Fun Fact: I have a knack for solving LeetCode problems at the most random times—yes, even at 2 AM!
 
 <!---
 jay6205/jay6205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
