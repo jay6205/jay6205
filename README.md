@@ -22,7 +22,6 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 ---
 
 ### 💻 Projects:
-- **AI-Based Mobile Recommendation System** *(Ongoing)* - Building an AI-driven system for personalized phone recommendations.
 - **Hangman Game (Flask)** - A web-based word-guessing game using Flask and Jinja2 templates.
 - **YouTube Clone (HTML & CSS)** - A front-end project replicating YouTube’s UI.
 - **Python Attendance Manager** - Automated attendance tracking using Python.
