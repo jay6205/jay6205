@@ -7,7 +7,7 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 ---
 
 ### 🔧 Tech Stack & Skills:
-- **Programming:** Java, Python, C, SQL
+- **Programming:** Java, Python, C, SQL, JavaScript
 - **Web Development:** Flask, Streamlit, HTML, CSS
 - **Machine Learning:** NumPy, Pandas, Scikit-learn
 - **Databases:** MySQL, PostgreSQL
@@ -23,7 +23,7 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 
 ### 💻 Projects:
 - **Hangman Game (Flask)** - A web-based word-guessing game using Flask and Jinja2 templates.
-- **YouTube Clone (HTML & CSS)** - A front-end project replicating YouTube’s UI.
+- **Bubble Hit Game (JS)** - A mini browser-based game where players click matching bubbles before the timer runs out. Built with HTML, CSS, and vanilla JavaScript.
 - **Python Attendance Manager** - Automated attendance tracking using Python.
 
 ---
@@ -38,11 +38,6 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 ### 📬 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/dhananjay-balekar-046a002b5](https://linkedin.com/in/dhananjay-balekar-046a002b5/)
 - **LeetCode:** [leetcode.com/u/jay6205](https://leetcode.com/u/jay6205/)
-- **CodeForces:** [codeforces.com/Jay620599]((https://codeforces.com/profile/Jay620599))
+- **CodeForces:** [codeforces.com/Jay620599](https://codeforces.com/profile/Jay620599)
 
 ⚡ Fun Fact: I have a knack for solving LeetCode problems at the most random times—yes, even at 2 AM!
-
-<!---
-jay6205/jay6205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
