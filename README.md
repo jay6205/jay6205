@@ -7,8 +7,8 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 ---
 
 ### 🔧 Tech Stack & Skills:
-- **Programming:** Java, Python, C, SQL, JavaScript
-- **Web Development:** Flask, Streamlit, HTML, CSS
+- **Programming:** Java, Python, C, SQL
+- **Web Development:** Flask, Streamlit, HTML, CSS, JavaScript, GSAP
 - **Machine Learning:** NumPy, Pandas, Scikit-learn
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Linux, Jupyter Notebook
