@@ -22,7 +22,7 @@ I’m a Computer Engineering student with a strong interest in Web Development, 
 ---
 
 ### 💻 Projects:
--**Employee Task Management Dashboard** - A responsive React application for managing employee tasks. The system features distinct dashboard views for administrators and employees, with functionality for creating users, assigning tasks, and tracking task status.
+- **Employee Task Management Dashboard** - A responsive React application for managing employee tasks. The system features distinct dashboard views for administrators and employees, with functionality for creating users, assigning tasks, and tracking task status.
 - **GTA VI Landing Page** - A cinematic, fan-made landing page using React and GSAP to create an immersive experience with SVG masking and layered parallax animations.
 - **Hangman Game (Flask)** - A web-based word-guessing game using Flask and Jinja2 templates.
 - **Thirtysixstudio Interactive Canvas** - An immersive React website using GSAP and Locomotive Scroll to create a fluid user experience with canvas animations and a custom cursor.
