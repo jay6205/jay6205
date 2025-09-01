@@ -2,7 +2,7 @@
 
 🚀 **Computer Engineering Student | Aspiring Web & AI Developer**
 
-I'm a second-year Computer Engineering student passionate about **Data Structures & Algorithms, AI, and Web Development**. I love solving complex problems and building real-world applications using **Java, Python, C, and SQL**.
+I’m a Computer Engineering student with a strong interest in Web Development, Data Structures & Algorithms, and AI/ML. I enjoy building practical applications that combine clean design with efficient code, using technologies like Java, Python, React, and SQL.
 
 ---
 
