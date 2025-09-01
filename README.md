@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhananjay Balekar! 👋
 
-🚀 **Computer Engineering Student | Aspiring AI & Web Developer**
+🚀 **Computer Engineering Student | Aspiring Web & AI Developer**
 
 I'm a second-year Computer Engineering student passionate about **Data Structures & Algorithms, AI, and Web Development**. I love solving complex problems and building real-world applications using **Java, Python, C, and SQL**.
 
@@ -8,10 +8,10 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 
 ### 🔧 Tech Stack & Skills:
 - **Programming:** Java, Python, C, SQL
-- **Web Development:** Flask, Streamlit, HTML, CSS, JavaScript, GSAP
+- **Web Development:** React.js,GSAP, Tailwind CSS, Flask, Streamlit
 - **Machine Learning:** NumPy, Pandas, Scikit-learn
 - **Databases:** MySQL, PostgreSQL
-- **Tools & Platforms:** Git, Linux, Jupyter Notebook
+- **Other Skills:** Responsive Design, State Management (Redux basics), Animation & Motion Design, Canvas-based Interactions
 
 ---
 
@@ -22,8 +22,10 @@ I'm a second-year Computer Engineering student passionate about **Data Structure
 ---
 
 ### 💻 Projects:
+-**Employee Task Management Dashboard** - A responsive React application for managing employee tasks. The system features distinct dashboard views for administrators and employees, with functionality for creating users, assigning tasks, and tracking task status.
+- **GTA VI Landing Page** - A cinematic, fan-made landing page using React and GSAP to create an immersive experience with SVG masking and layered parallax animations.
 - **Hangman Game (Flask)** - A web-based word-guessing game using Flask and Jinja2 templates.
-- **Bubble Hit Game (JS)** - A mini browser-based game where players click matching bubbles before the timer runs out. Built with HTML, CSS, and vanilla JavaScript.
+- **Thirtysixstudio Interactive Canvas** - An immersive React website using GSAP and Locomotive Scroll to create a fluid user experience with canvas animations and a custom cursor.
 - **Python Attendance Manager** - Automated attendance tracking using Python.
 
 ---
